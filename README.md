@@ -1,4 +1,4 @@
-# Hello! I'm Tomikorzu 👋
+# Hello! I'm Tomás Korzusehec 👋
 
 I'm a passionate developer who loves technology and programming. Here are a few things about me:
 
