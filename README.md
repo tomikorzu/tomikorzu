@@ -6,7 +6,7 @@ I'm a passionate developer who loves technology and programming. Here are a few 
 - 🌱 I’m using NextJS, Astro and TypeScript
 - 👯 I’m looking to collaborate on web projects
 - 💬 Ask me about me and my work
-- 📫 How to reach me: [tomykorzu@icloud.com](mailto:tomykorzu@icloud.com)
+- 📫 How to reach me: [tomykorzu@icloud.com](mailto:tomaskorzusehec@gmail.com)
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tomas-korzusehec)
